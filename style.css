@@ -489,7 +489,7 @@ nav, a{
 /* PRESSE JOURNAL */
 .grandboitepresse {
     border: 4px solid white;
-    height: 90vh;
+    height: 100vh;
     margin: 20px;
     grid-template-columns: 1fr 1fr 1fr;
     box-shadow: 0 20px 50px rgb(23, 32, 90);
