@@ -495,8 +495,8 @@ nav, a{
     box-shadow: 0 20px 50px rgb(23, 32, 90);
     font-family: sans-serif;
     font-family: italic;
-    font-weight: normal;
-    
+    font-weight: 300px;
+    padding: 2%;
 }
 /* box couleurs */
 /* .gdboite{
@@ -564,6 +564,7 @@ nav, a{
     font-family: sans-serif;
     text-align: left;
     font-weight: normal;
+    
     /* box-shadow: 0 20px 50px rgb(23, 32, 90); */
     
     
@@ -572,6 +573,7 @@ nav, a{
 .textevpn{
     font-size: 20px;
     color: white;
+    padding: 25px;
     /* display: flex;
     justify-content: flex-end; */
 }
@@ -718,6 +720,12 @@ button:hover{
    
 }
 
+.boutton{
+  width: 50%;
+  position: relative;
+  left: 25%;
+
+}
 
 
 
@@ -851,8 +859,8 @@ button:hover{
 
 .section .boite1{
   background-image: url(22.jpg) none;
-  background-image: url(42.jpg);
-  background-position: center;
+  background-image: url(43.png) no-repeat ;
+   background-position: center;
   
 }
 
@@ -962,7 +970,8 @@ button:hover{
     font-size: 12px;
     line-height: 140%;
     height: 50%;
-    margin: 20%;
+    margin: 20%; 
+  
    /* font-family: Georgia, 'Times New Roman', Times, sans-serif; */
     
     
